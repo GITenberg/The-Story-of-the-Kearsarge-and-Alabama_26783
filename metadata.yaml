@@ -1,0 +1,28 @@
+_repo: The-Story-of-the-Kearsarge-and-Alabama_26783
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Browne, A. K.
+    gutenberg_agent_id: '32240'
+    url: http://www.gutenberg.org/2009/agents/32240
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2008-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26783'
+  lccn: '02026031'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kearsarge (Sloop)'
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Naval operations'
+- !lcsh 'Alabama (Screw sloop)'
+title: The Story of the Kearsarge and Alabama
+url: http://www.gutenberg.org/ebooks/26783
